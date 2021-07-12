@@ -22,7 +22,7 @@
 
 > 출퇴근 도장 찍기 (버튼클릭)
 >
->![Stamp](asset\stamp.png){: width = "40%" height = "40%"}
+>![stamp](assets\stamp.png){: width="40%" height = "40%"}
 
 
 
