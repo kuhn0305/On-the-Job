@@ -101,7 +101,7 @@
 
 > 예시) 포스트잇 템블릿
 >
-> !<img src="\assets\scrum-postit.jpg" width = "50%" height"50%" title = "px 크기 설정" alt = "Postit"></img>
+> ![Postit](assets\scrum_postit.jpg)
 
 
 ## 청소
