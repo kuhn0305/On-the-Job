@@ -22,7 +22,7 @@
 
 > 출퇴근 도장 찍기 (버튼클릭)
 >
-> ![stamp](assets\stamp.png?raw=true)
+> ![stamp](assets\stamp.PNG)
 
 
 
