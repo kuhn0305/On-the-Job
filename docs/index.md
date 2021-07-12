@@ -45,7 +45,7 @@
 
 > 예시)
 >
-> ![image-20210702170742724](C:\Users\leehs\Downloads\image-20210702170742724.png)
+> ![QT](assets\qt kakao.png)
 
 기도인도자는 김이사님께서 매달 초 아침 간식 준비 대상자와 함께 공지합니다.
 
