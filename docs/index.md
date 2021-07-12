@@ -11,9 +11,11 @@
 
 **아이디** tektonspace5G / tektonspace
 
-**비밀번호** tektonspace0405!
+**비밀번호** tekton0405!
 
 회의실 문 옆쪽의 벽에 적혀있습니다.
+
+(NAS 05.공용폴더 - Tekton계정정보.xlsx 파일에서도 확인 가능)
 
 
 ## 출퇴근 처리하기
